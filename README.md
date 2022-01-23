@@ -1,16 +1,18 @@
-### Hi there 👋
+Author and maintainer of LIEF, I like going back and forth between reverse-engineering and tooling.
 
-<!--
-**romainthomas/romainthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tools
 
-Here are some ideas to get you started:
+* [LIEF](https://github.com/lief-project/LIEF) - https://lief-project.github.io/
+* [QBDL](https://github.com/quarkslab/QBDL)
+* *iCDump: A modern ObjC class dump - coming soon*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Blog Posts
+
+* [PGSharp: Analysis of a Cheating App for PokemonGO](https://www.romainthomas.fr/post/21-11-pgsharp-analysis/)
+* [Gotta Catch 'Em All: Frida & jailbreak detection](https://www.romainthomas.fr/post/21-07-pokemongo-anti-frida-jailbreak-bypass/)
+* [r2-pay: anti-debug, anti-root & anti-frida](https://www.romainthomas.fr/post/20-09-r2con-obfuscated-whitebox-part1/)
+* [r2-pay: Whitebox](https://www.romainthomas.fr/post/20-09-r2con-obfuscated-whitebox-part2/)
+
+## Contact
+
+``me [at] romainthomas.fr``
