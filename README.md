@@ -4,6 +4,8 @@ Author and maintainer of LIEF, I like going back and forth between reverse-engin
 
 * [LIEF](https://github.com/lief-project/LIEF) - https://lief-project.github.io/
 * [QBDL](https://github.com/quarkslab/QBDL)
+* [o-mvll](https://obfuscator.re/omvll)
+* [dProtect](https://obfuscator.re/dprotect)
 * *iCDump: A modern ObjC class dump - coming soon*
 
 ## Technical Blog Posts
