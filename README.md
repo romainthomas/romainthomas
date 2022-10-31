@@ -9,7 +9,7 @@ Author and maintainer of LIEF, I like going back and forth between reverse-engin
 * *iCDump: A modern ObjC class dump - coming soon*
 
 ## Technical Blog Posts
-
+* [A Journey in iOS App Obfuscation](https://www.romainthomas.fr/post/22-08-ios-obfuscation/)
 * [PGSharp: Analysis of a Cheating App for PokemonGO](https://www.romainthomas.fr/post/21-11-pgsharp-analysis/)
 * [Gotta Catch 'Em All: Frida & jailbreak detection](https://www.romainthomas.fr/post/21-07-pokemongo-anti-frida-jailbreak-bypass/)
 * [r2-pay: anti-debug, anti-root & anti-frida](https://www.romainthomas.fr/post/20-09-r2con-obfuscated-whitebox-part1/)
