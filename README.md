@@ -17,6 +17,10 @@ I like going back and forth between reverse-engineering and tooling.
 * [r2-pay: anti-debug, anti-root & anti-frida](https://www.romainthomas.fr/post/20-09-r2con-obfuscated-whitebox-part1/)
 * [r2-pay: Whitebox](https://www.romainthomas.fr/post/20-09-r2con-obfuscated-whitebox-part2/)
 
+## Trainings & Workshops
+
+* [A Practical Introducation to Reverse Engineering](https://github.com/romainthomas/reverse-engineering-workshop)
+
 ## Contact
 
 ``me [at] romainthomas.fr``
