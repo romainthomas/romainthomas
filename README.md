@@ -7,7 +7,7 @@ I like going back and forth between reverse-engineering and tooling.
 * [QBDL](https://github.com/quarkslab/QBDL)
 * [o-mvll](https://github.com/open-obfuscator/o-mvll) - https://obfuscator.re/omvll
 * [dProtect](https://github.com/open-obfuscator/dProtect) - https://obfuscator.re/dprotect
-* *iCDump: A modern ObjC class dump - coming soon*
+* [iCDump: A modern Objective-C class dump](https://github.com/romainthomas/iCDump)
 
 ## Technical Blog Posts
 
