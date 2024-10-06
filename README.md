@@ -11,6 +11,7 @@ I like going back and forth between reverse-engineering and tooling.
 
 ## Technical Blog Posts
 
+* [Instrumenting an Apple Vision Pro Library with QBDI](https://www.romainthomas.fr/post/24-09-apple-lockdown-dbi-lifting/)
 * [A Journey in iOS App Obfuscation](https://www.romainthomas.fr/post/22-08-ios-obfuscation/)
 * [PGSharp: Analysis of a Cheating App for PokemonGO](https://www.romainthomas.fr/post/21-11-pgsharp-analysis/)
 * [Gotta Catch 'Em All: Frida & jailbreak detection](https://www.romainthomas.fr/post/21-07-pokemongo-anti-frida-jailbreak-bypass/)
