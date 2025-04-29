@@ -11,6 +11,7 @@ I like going back and forth between reverse-engineering and tooling.
 
 ## Technical Blog Posts
 
+* [Fuzzing Windows ARM64 closed-source binary](https://www.romainthomas.fr/post/25-04-windows-arm64-qbdi-fuzzing/)
 * [Instrumenting an Apple Vision Pro Library with QBDI](https://www.romainthomas.fr/post/24-09-apple-lockdown-dbi-lifting/)
 * [A Journey in iOS App Obfuscation](https://www.romainthomas.fr/post/22-08-ios-obfuscation/)
 * [PGSharp: Analysis of a Cheating App for PokemonGO](https://www.romainthomas.fr/post/21-11-pgsharp-analysis/)
